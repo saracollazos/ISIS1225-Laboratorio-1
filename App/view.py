@@ -134,7 +134,7 @@ def main():
             booksTags = load_books_tags(app)
             print("Total de tags de los libros cargados: " + str(booksTags) + "\n")
             
-        elif int(inputs[0]) == 3
+        elif int(inputs[0]) == 3:
             pass
 
         elif int(inputs[0]) == 0:
